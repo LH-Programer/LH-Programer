@@ -5,7 +5,7 @@
 
 Programming languages used:
 
-♣ Java, JavaScript, C#, C++, Python, HTML5, CSS.
+♣ Java, JavaScript, C#, C++, Python, HTML5, CSS, PHP, Python.
 
 Frameworks:
 
